@@ -7,3 +7,6 @@
 [submodule "build-a-product-landing-page"]
 	path = build-a-product-landing-page
 	url = https://github.com/gabrielml/build-a-product-landing-page
+[submodule "build-a-technical-documentation-page"]
+	path = build-a-technical-documentation-page
+	url = https://github.com/gabrielml/build-a-technical-documentation-page
