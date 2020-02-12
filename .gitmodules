@@ -1,3 +1,6 @@
 [submodule "build-a-tribute-page"]
 	path = build-a-tribute-page
 	url = https://github.com/gabrielml/build-a-tribute-page
+[submodule "build-a-survey-form"]
+	path = build-a-survey-form
+	url = https://github.com/gabrielml/build-a-survey-form
